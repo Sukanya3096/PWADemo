@@ -6,7 +6,7 @@ backend(node):
 
 Frontend(angular):
 
-1. npm install
+1. Open pwaForm folder in integrated terminal and run 'npm install'
 
 2. ng build
 
